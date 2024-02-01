@@ -1,0 +1,25 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "2024贴图包by信飙君",
+        "name": "resource_pack",
+        "uuid": "df691c3c-dc41-49d2-a986-23ea471995cf",
+        "version": [
+            0,
+            0,
+            1
+        ]
+    },
+    "modules": [
+        {
+            "description": "2024贴图包by信飙君",
+            "type": "resources",
+            "uuid": "8c2018cc-5be3-4ee3-8f47-06e05d38c8e8",
+            "version": [
+                0,
+                0,
+                1
+            ]
+        }
+    ]
+}
